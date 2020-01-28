@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(216, 222, 171);
+
+}
+h1{
+    color:red;
+    font-family:Andale Mono, monospace;
+}
+#test{
+    color: blueviolet;
+    text-align: center;
+}
+
+.image{
+	width:700px;
+	height:350px;
+}
